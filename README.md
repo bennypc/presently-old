@@ -1,4 +1,4 @@
-# presently
+# Presently
 
 Presently is a dynamic and innovative web application designed to help users refine and elevate their public speaking skills. Our tool provides a user-friendly platform for practicing speeches, presentations, and more, offering immediate and actionable feedback on key performance areas.
 
